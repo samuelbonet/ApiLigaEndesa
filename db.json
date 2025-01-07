@@ -1,0 +1,132 @@
+{
+  "liga": "Liga Endesa",
+  "temporada": "2024-2025",
+  "clasificacion": [
+    {
+      "posicion": 1,
+      "equipo": "Valencia Basket",
+      "puntos": 28,
+      "victorias": 14,
+      "derrotas": 1
+    },
+    {
+      "posicion": 2,
+      "equipo": "Unicaja Málaga",
+      "puntos": 26,
+      "victorias": 13,
+      "derrotas": 2
+    },
+    {
+      "posicion": 3,
+      "equipo": "Lenovo Tenerife",
+      "puntos": 24,
+      "victorias": 12,
+      "derrotas": 3
+    },
+    {
+      "posicion": 4,
+      "equipo": "Real Madrid",
+      "puntos": 22,
+      "victorias": 11,
+      "derrotas": 4
+    },
+    {
+      "posicion": 5,
+      "equipo": "Joventut Badalona",
+      "puntos": 22,
+      "victorias": 11,
+      "derrotas": 4
+    },
+    {
+      "posicion": 6,
+      "equipo": "Gran Canaria",
+      "puntos": 20,
+      "victorias": 10,
+      "derrotas": 5
+    },
+    {
+      "posicion": 7,
+      "equipo": "Baxi Manresa",
+      "puntos": 18,
+      "victorias": 9,
+      "derrotas": 6
+    },
+    {
+      "posicion": 8,
+      "equipo": "Casademont Zaragoza",
+      "puntos": 18,
+      "victorias": 9,
+      "derrotas": 6
+    },
+    {
+      "posicion": 9,
+      "equipo": "FC Barcelona",
+      "puntos": 16,
+      "victorias": 8,
+      "derrotas": 7
+    },
+    {
+      "posicion": 10,
+      "equipo": "Baskonia",
+      "puntos": 16,
+      "victorias": 8,
+      "derrotas": 7
+    },
+    {
+      "posicion": 11,
+      "equipo": "Surne Bilbao Basket",
+      "puntos": 12,
+      "victorias": 6,
+      "derrotas": 9
+    },
+    {
+      "posicion": 12,
+      "equipo": "UCAM Murcia",
+      "puntos": 12,
+      "victorias": 6,
+      "derrotas": 9
+    },
+    {
+      "posicion": 13,
+      "equipo": "MoraBanc Andorra",
+      "puntos": 10,
+      "victorias": 5,
+      "derrotas": 10
+    },
+    {
+      "posicion": 14,
+      "equipo": "ICG Força Lleida",
+      "puntos": 10,
+      "victorias": 5,
+      "derrotas": 10
+    },
+    {
+      "posicion": 15,
+      "equipo": "Río Breogán",
+      "puntos": 10,
+      "victorias": 5,
+      "derrotas": 10
+    },
+    {
+      "posicion": 16,
+      "equipo": "Covirán Granada",
+      "puntos": 8,
+      "victorias": 4,
+      "derrotas": 11
+    },
+    {
+      "posicion": 17,
+      "equipo": "Leyma Coruña",
+      "puntos": 8,
+      "victorias": 4,
+      "derrotas": 11
+    },
+    {
+      "posicion": 18,
+      "equipo": "Bàsquet Girona",
+      "puntos": 6,
+      "victorias": 3,
+      "derrotas": 12
+    }
+  ]
+}
