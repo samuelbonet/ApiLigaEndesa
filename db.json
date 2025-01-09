@@ -18,19 +18,19 @@
     },
     {
       "posicion": 3,
+      "equipo": "Real Madrid",
+      "partidosJugados": 15,
+      "victorias": 11,
+      "derrotas": 4,
+      "diferencia": 142
+    },
+    {
+      "posicion": 4,
       "equipo": "CB Canarias",
       "partidosJugados": 15,
       "victorias": 11,
       "derrotas": 4,
       "diferencia": 74
-    },
-    {
-      "posicion": 4,
-      "equipo": "Real Madrid",
-      "partidosJugados": 14,
-      "victorias": 10,
-      "derrotas": 4,
-      "diferencia": 142
     },
     {
       "posicion": 5,
@@ -66,7 +66,7 @@
     },
     {
       "posicion": 9,
-      "equipo": "FC Barcelona",
+      "equipo": "Barça",
       "partidosJugados": 15,
       "victorias": 7,
       "derrotas": 8,
@@ -76,9 +76,9 @@
       "posicion": 10,
       "equipo": "Baskonia",
       "partidosJugados": 15,
-      "victorias": 6,
+      "victorias": 7,
       "derrotas": 8,
-      "diferencia": -42
+      "diferencia": 6
     },
     {
       "posicion": 11,
@@ -125,16 +125,16 @@
       "equipo": "Covirán Granada",
       "partidosJugados": 14,
       "victorias": 4,
-      "derrotas": 10,
-      "diferencia": -60
+      "derrotas": 11,
+      "diferencia": -65
     },
     {
       "posicion": 17,
       "equipo": "Leyma Coruña",
-      "partidosJugados": 14,
+      "partidosJugados": 15,
       "victorias": 4,
-      "derrotas": 10,
-      "diferencia": -100
+      "derrotas": 11,
+      "diferencia": -148
     },
     {
       "posicion": 18,
