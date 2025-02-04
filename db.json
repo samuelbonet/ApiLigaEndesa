@@ -3,148 +3,147 @@
     {
       "posicion": 1,
       "equipo": "Real Madrid",
-      "partidosJugados": 18,
-      "victorias": 14,
+      "partidosJugados": 19,
+      "victorias": 15,
       "derrotas": 4,
-      "diferencia": 189
+      "diferencia": 202
     },
     {
       "posicion": 2,
-      "equipo": "Valencia Basket",
-      "partidosJugados": 18,
-      "victorias": 14,
+      "equipo": "Unicaja Málaga",
+      "partidosJugados": 19,
+      "victorias": 15,
       "derrotas": 4,
-      "diferencia": 187
+      "diferencia": 115
     },
     {
       "posicion": 3,
-      "equipo": "Unicaja Málaga",
-      "partidosJugados": 18,
+      "equipo": "Valencia Basket",
+      "partidosJugados": 19,
       "victorias": 14,
-      "derrotas": 4,
-      "diferencia": 94
+      "derrotas": 5,
+      "diferencia": 185
     },
     {
       "posicion": 4,
       "equipo": "CB Canarias",
-      "partidosJugados": 18,
-      "victorias": 13,
+      "partidosJugados": 19,
+      "victorias": 14,
       "derrotas": 5,
-      "diferencia": 87
+      "diferencia": 100
     },
     {
       "posicion": 5,
       "equipo": "Joventut Badalona",
-      "partidosJugados": 18,
+      "partidosJugados": 19,
       "victorias": 12,
-      "derrotas": 6,
-      "diferencia": 62
+      "derrotas": 7,
+      "diferencia": 49
     },
     {
       "posicion": 6,
-      "equipo": "Barça",
-      "partidosJugados": 18,
-      "victorias": 10,
+      "equipo": "Baxi Manresa",
+      "partidosJugados": 19,
+      "victorias": 11,
       "derrotas": 8,
-      "diferencia": 69
+      "diferencia": 66
     },
     {
       "posicion": 7,
-      "equipo": "Baxi Manresa",
-      "partidosJugados": 18,
-      "victorias": 10,
+      "equipo": "Gran Canaria",
+      "partidosJugados": 19,
+      "victorias": 11,
       "derrotas": 8,
-      "diferencia": 55
+      "diferencia": 33
     },
     {
       "posicion": 8,
-      "equipo": "Gran Canaria",
-      "partidosJugados": 18,
+      "equipo": "Barça",
+      "partidosJugados": 19,
       "victorias": 10,
-      "derrotas": 8,
-      "diferencia": 25
+      "derrotas": 9,
+      "diferencia": 58
     },
     {
       "posicion": 9,
       "equipo": "Casademont Zaragoza",
-      "partidosJugados": 18,
+      "partidosJugados": 19,
       "victorias": 9,
-      "derrotas": 9,
-      "diferencia": 35
+      "derrotas": 10,
+      "diferencia": 26
     },
     {
       "posicion": 10,
-      "equipo": "Baskonia",
-      "partidosJugados": 18,
+      "equipo": "UCAM Murcia",
+      "partidosJugados": 19,
       "victorias": 9,
-      "derrotas": 9,
-      "diferencia": -13
+      "derrotas": 10,
+      "diferencia": -23
     },
     {
       "posicion": 11,
-      "equipo": "UCAM Murcia",
-      "partidosJugados": 18,
-      "victorias": 8,
+      "equipo": "Baskonia",
+      "partidosJugados": 19,
+      "victorias": 9,
       "derrotas": 10,
-      "diferencia": -32
+      "diferencia": -34
     },
     {
       "posicion": 12,
-      "equipo": "Río Breogán",
-      "partidosJugados": 18,
+      "equipo": "Surne Bilbao Basket",
+      "partidosJugados": 19,
       "victorias": 7,
-      "derrotas": 11,
-      "diferencia": -147
+      "derrotas": 12,
+      "diferencia": -17
     },
     {
       "posicion": 13,
-      "equipo": "Surne Bilbao Basket",
-      "partidosJugados": 18,
-      "victorias": 6,
+      "equipo": "Río Breogán",
+      "partidosJugados": 19,
+      "victorias": 7,
       "derrotas": 12,
-      "diferencia": -33
+      "diferencia": -160
     },
     {
       "posicion": 14,
       "equipo": "ICG Força Lleida",
-      "partidosJugados": 18,
+      "partidosJugados": 19,
       "victorias": 6,
-      "derrotas": 12,
-      "diferencia": -62
-    },
+      "derrotas": 13,
+      "diferencia": -78
+    }, 
     {
       "posicion": 15,
-      "equipo": "Bàsquet Girona",
-      "partidosJugados": 18,
+      "equipo": "MoraBanc Andorra",
+      "partidosJugados": 19,
       "victorias": 6,
-      "derrotas": 12,
-      "diferencia": -152
+      "derrotas": 13,
+      "diferencia": -88
     },
     {
       "posicion": 16,
-      "equipo": "MoraBanc Andorra",
-      "partidosJugados": 18,
-      "victorias": 5,
+      "equipo": "Covirán Granada",
+      "partidosJugados": 19,
+      "victorias": 6,
       "derrotas": 13,
-      "diferencia": -90
+      "diferencia": -95
     },
     {
       "posicion": 17,
-      "equipo": "Covirán Granada",
-      "partidosJugados": 18,
-      "victorias": 5,
+      "equipo": "Bàsquet Girona",
+      "partidosJugados": 19,
+      "victorias": 6,
       "derrotas": 13,
-      "diferencia": -99
+      "diferencia": -156
     },
     {
       "posicion": 18,
       "equipo": "Leyma Coruña",
-      "partidosJugados": 18,
+      "partidosJugados": 19,
       "victorias": 4,
-      "derrotas": 14,
-      "diferencia": -175
+      "derrotas": 15,
+      "diferencia": -183
     }
-    
   ]
 }
 
