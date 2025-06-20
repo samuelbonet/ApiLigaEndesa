@@ -1,4 +1,4 @@
- # Api Liga Endesa 2024/2025 🏀
+ # Api Liga Endesa 2024/2025 🏀 (Finalizada)
 
  [![liga-endesa-2019-logo-4-DC2-BF3-E19-seeklogo-com.png](https://i.postimg.cc/9FPBQ9kR/liga-endesa-2019-logo-4-DC2-BF3-E19-seeklogo-com.png)](https://postimg.cc/Yh9FXvMM) 
 
